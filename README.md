@@ -1,16 +1,18 @@
-## Hi there 👋
+# Yuval Berkovich
 
-<!--
-**Yuval-Berkovich/yuval-berkovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer. Currently training for the **Israeli Test Automation Cup 2026**.
 
-Here are some ideas to get you started:
+## Active focus
+- TypeScript + Playwright + GitHub Actions
+- Building a public portfolio of automation work between May and September 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- Playwright, TypeScript, Node 22
+- GitHub Actions for CI
+- Sauce Demo, RealWorld Conduit, Practice Software Testing as practice targets
+
+## Background
+- B.Sc. Computer Science, HIT (Holon Institute of Technology)
+- QA Engineer @ Beta (Paramount-backed incubator)
+
+Repos below are bootcamp output. Real work, no AI assistance, scored against the published ITAC rubric.
